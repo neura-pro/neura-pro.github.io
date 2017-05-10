@@ -34,7 +34,7 @@ Syntax highlighted code block 9
 
 [website](http://neura.pro)
 
-![Waves](waves-quick-guide.png)
+![Waves](waves.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
