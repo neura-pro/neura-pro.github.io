@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages?@
+﻿## Welcome to GitHub Pages?@
 
 You can use the [editor on GitHub](https://github.com/neura-pro/neura-pro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,13 +26,15 @@ Syntax highlighted code block 9
 [Link](url) and ![Image](src)
 ```
 
-![Image](Untitled.png)
+![Image](images/Untitled.png)
 
-![Another one](Rplot.png)
+![Another one](images/Rplot00.png)
 
-![](Rplot01.png)
+![](images/Rplot01.png)
 
 [website](http://neura.pro)
+
+![Waves](Waves quick guide.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
