@@ -1,15 +1,16 @@
 ## Executive Summary
 
+![](images/hand.jpg)
+
 Prediction markets are poised to become one of the most disruptive innovations in capital markets
 and data science since the beginning of the Information Revolution. First proposed in the early 90s,
 prediction markets have yet to attract mass attention in the realm of forecasting and decision-making
 despite their documented efficacy for information aggregation. This is largely due to over-regulation
-in many of the world’s leading financial sectors. With the invention of powerful, peer-to-peer
-computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based
-forecasting can proceed uninhibited and at a rate and scale previously unimaginable. Our team
-believes undoubtedly that prediction markets will disrupt some of the largest existing industries in
-the near term. Looking forward, we expect that the Gnosis prediction market platform will form the
-basis for machine information economies on a global scale.
+in many of the world’s leading financial sectors.
+
+[Whenever](mission.md) you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+With the invention of powerful, peer-to-peer computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based forecasting can proceed uninhibited and at a rate and scale previously unimaginable. Our team believes undoubtedly that prediction markets will disrupt some of the largest existing industries in the near term. Looking forward, we expect that the Gnosis prediction market platform will form the basis for machine information economies on a global scale.
 
 ![](images/arch.jpg)
 
