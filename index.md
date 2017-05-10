@@ -28,13 +28,13 @@ Syntax highlighted code block 9
 
 ![Image](images/Untitled.png)
 
-![Another one](images/Rplot00.png)
+![Another one](images/Rplot.png)
 
 ![](images/Rplot01.png)
 
 [website](http://neura.pro)
 
-![Waves](Waves quick guide.png)
+![Waves](waves-quick-guide.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
