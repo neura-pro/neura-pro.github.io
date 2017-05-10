@@ -2,38 +2,34 @@
 
 You can use the [editor on GitHub](https://github.com/neura-pro/neura-pro.github.io/edit/master/index.md) to *maintain* and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Whenever](mission.md) you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown?
 
-- fsf
-- fsfsf
-
 ![](images/Untitled.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
-```
-Syntax highlighted code block 9
+> The platform must be decentralized, permissionless, and trustless
+> for such a liquidity pool to exist. With these requirements in mind, the Gnosis team has selected the
+> Ethereum network as the core protocol upon which the platform will be built.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ![Image](images/Untitled.png)
 
-![Another one](images/Rplot.png)
+## Information Revolution
+
+Generally speaking, the Information Revolution has made it easier for individuals to quickly retrieve
+data about any topic. Despite the ease of access we enjoy today, this form of information aggregation
+still requires a great deal of coordination to be effective. More often than not, the data is severely
+lacking in context and objectivity and requires heavier lifting to produce actionable information
+for use in decision-making processes. The reason for this is straightforward: written information
+is inextricably linked to the writer’s individual biases and agenda, making it difficult to delineate
+useful information from opinions or intentional misinformation. In other words, it’s easy to find
+what people have said but hard to ascertain what they actually believe.
+
+
 
 ![](images/Rplot01.png)
 
