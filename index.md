@@ -30,7 +30,7 @@ Syntax highlighted code block 9
 
 ![Another one](Rplot.png)
 
-(Rplot01.png)
+![](Rplot01.png)
 
 [website](http://neura.pro)
 
