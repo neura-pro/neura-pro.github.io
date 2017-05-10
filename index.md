@@ -30,7 +30,7 @@ Syntax highlighted code block 9
 
 ![Another one](Rplot.png)
 
-[wbesite](neura.pro)
+[website](http://neura.pro)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
