@@ -2,7 +2,7 @@
 
 Najlepiej zacząć od [krótkiej prezentacji promocyjnej Tezosa](https://www.youtube.com/watch?v=7m7EU4JWI88), dostępnej na YouTubie.
 
-Tezos jest niezależny od innych blockchainów, a jego kod źródłowy zbudowany jest od zera. Do tworzenia kontraktów wymagane jest użycie specjalnego języka skryptowego (odpowiednik języka *Solidity* na ETH).
+Tezos jest niezależny od innych blockchainów, a jego kod źródłowy zbudowano od zera (czyli nie jest to klon innego projektu). Do tworzenia kontraktów wymagane jest użycie specjalnego języka skryptowego (odpowiednik języka *Solidity* na ETH).
 
 Czym się Tezos chce wyróżnić? Mamy trzy główne aspekty:
 - Sformalizowany system samorządności
