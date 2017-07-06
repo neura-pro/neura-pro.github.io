@@ -37,7 +37,7 @@ No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza
 
 > Tezos is written in OCaml, a statically-typed functional programming language.
 
-Ważne rozróżnienie: platforma Tezos jest napisana w języku [OCaml](https://en.wikipedia.org/wiki/OCaml), który jest bardzo solidny, ale trudny w użyciu i mało znany. Nie należy mylić tego z językiem skryptowym *Michelson*, który ma służyć do pisania smart-kontraktów na Tezosie.
+Ważne rozróżnienie: platforma Tezos jest napisana w języku programowania [OCaml](https://en.wikipedia.org/wiki/OCaml), którego nie należy mylić z językiem skryptowym *Michelson*, który ma służyć do pisania smart-kontraktów na Tezosie. OCaml uchodzi za bardzo solidny, ale też trudny w użyciu i stosunkowo mało rozpowszechniony, co będzie miało wpływ na przyszłe tempo rozwoju ekosystemu wokół Tezosa.  
 
 Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-kontraktu, daje jedynie zestaw narzędzi, które w sposób istotny zmniejszają możliwość powstania takiego błędu. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo, czy to się uda.
 
@@ -72,7 +72,7 @@ Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli będzie to wzorow
 Nie znalazłem informacji o docelowej inflacji ani informacji w zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - całkiem dziwne, bo to są dość istotne sprawy.
 
 ### Podsumowując
-Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych java-script.
+Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
 
 Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
 
