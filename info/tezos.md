@@ -61,7 +61,7 @@ Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespó
 
 > Arthur Breitman had worked at the high frequency trading desk at Goldman Sachs and was an options market maker at Morgan Stanley, while Kathleen Breitman is a former management associate at Bridgewater Associates, the world's largest hedge fund.
 
-[Obszerny wywiad Breitmana dla Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
+Obszerny [wywiad Breitmana dla Epicenter](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
 
 [Whitepaper]([https://www.tezos.com/static/papers/white_paper.pdf) jest raczej ogólnikowy i lakoniczny, ledwo 17 stron. W porównaniu z whitepaperem Ethereum lub EOSa wygląda dość niepoważnie.
 
