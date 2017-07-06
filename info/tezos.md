@@ -14,10 +14,10 @@ Czym się Tezos chce wyróżnić? Mamy trzy główne aspekty:
 > Unlike other smart contract platforms, Tezos has a formal governance mechanism on the blockchain itself.
 
 Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. *governance issue*) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu o dwojakiego typu sytuacje:
-- decyzje strategiczne (np. istotna zmian protokołu, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
+- decyzje strategiczne (tj. istotna zmiana w protokole, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
 - obsługa nietypowych wydarzeń (np. słynne fiasko *The DAO* na ETH).
 
-Moja subiektywna opinia:  w tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake, czyli BitShares, Steem, EOS, PeerPlays) mają powyższą kwestię rozwiązaną - na pewno nie idealnie, ale przynajmnej instnieją stosowne mechanizmy na poziomie blockchaina. Można też przyjąć, że blockchainy, w których jest jakaś hierarchia ważności *node*'ów, (tj. mają warstwę tzw. *master nodes*, np. Dash), również w jakimś stopniu są w stanie w miarę skutecznie działać w zakresie podejmowania decyzji.
+Moja subiektywna opinia:  w tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake, czyli BitShares, Steem, EOS, PeerPlays) mają powyższą kwestię rozwiązaną - na pewno nie idealnie, ale przynajmnej istnieją tam stosowne mechanizmy na poziomie blockchaina. Można też przyjąć, że blockchainy, w których jest jakaś hierarchia ważności *node*'ów, (tj. mają warstwę tzw. *master nodes*, np. Dash), również w jakimś stopniu są w stanie w miarę skutecznie działać w zakresie podejmowania decyzji.
 
 Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
 
@@ -35,13 +35,13 @@ To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że 
 
 > To mitigate that risk, the development team designed our smart contract language with correctness and formal verification in mind.
 
-No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), co powoduje że pojawia się dodatkowa bariera dla developerów. 
+No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), co powoduje, że pojawia się dodatkowa bariera dla developerów. 
 
 > Tezos is written in OCaml, a statically-typed functional programming language.
 
 Ważne rozróżnienie: platforma Tezos jest napisana w języku [OCaml](https://en.wikipedia.org/wiki/OCaml), który jest bardzo solidny, ale trudny w użyciu i mało znany. Nie należy mylić tego z językiem skryptowym *Michelson*, który ma służyć do pisania smart-kontraktów na Tezosie.
 
-Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-kontraktu, daje jedynie zestaw narzędzi, które w sposób istotny zmniejszają możliwość powstania takiego błędu. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo czy to się uda.
+Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-kontraktu, daje jedynie zestaw narzędzi, które w sposób istotny zmniejszają możliwość powstania takiego błędu. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo, czy to się uda.
 
 ### Modułowa architektura
 
@@ -52,11 +52,6 @@ Bez zaglądania do kodu źródłowego trudno zweryfikować, na ile jest to prawd
 > There is no need need for hard forks.
 
 To jest ciekawa rzecz. Na razie nie mam pojęcia, jakim cudem Tezos będzie w stanie unikąć hard forków. Być może chodzi o to, że hard forki będą, tyle że nigdy nie będzie niebezpieczeństwa splitu (jak np. miało to miejsce w przypadku ETH i ETC).
-
-### Podsumowując
-Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych java-script.
-
-Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
 
 ### Kim są ludzie którzy za tym stoją?
 
@@ -73,6 +68,13 @@ Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?
 Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli będzie to wzorowane na koncepcji twórcy EOS'a Dana Larimera.
 
 Nie znalazłem informacji o docelowej inflacji ani informacji w zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - całkiem dziwne, bo to są dość istotne sprawy.
+
+### Podsumowując
+Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych java-script.
+
+Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
+
+Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo przewagi hype'u nad mertium.
 
 ### Dodatkowe informacje
 
