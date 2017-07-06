@@ -85,18 +85,18 @@ Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym sto
 Jedna z opinii [wyrażona na redicie](https://np.reddit.com/r/ethtrader/comments/6am251/what_are_everyones_thoughts_on_tezos_coinss_ico/dhhemcg/):
 > The scope of their roadmap is ridiculous and belies that investors should not have confidence that the team will use the raised money well. The plans are massive and random and the team doesn't have the necessary expertise to handle the variety. Scope is way too big. This looks like empire building and it's frankly, an unfocused, shoddy plan.
 
-Moje wrażenia nie są aż tak negatywne, ale podzielam powyższy sentyment. Tezos trochę wygląda jak gigant na glinianych nogach: bardzo ambitne plany ale mocno nieprecyzje i bez umocowania w praktyce.
+Moje wrażenia nie są aż tak negatywne, ale podzielam powyższy sentyment. Tezos trochę wygląda jak gigant na glinianych nogach: bardzo ambitne plany ale mocno nieprecyzyjne i bez umocowania w praktyce.
 
 ### Dodatkowe informacje
 
 [Tezos - oficjalna strona webowa](https://www.tezos.com/)
 
-[Tezos Overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
-
-[Tezos repository](https://github.com/tezos)
+[Tezos overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
 
 [Billionaire investor Draper to participate in blockchain token sale for first time](http://www.reuters.com/article/us-tezos-blockchain-draper-idUSKBN181250)
 
 [A questionable story about Tezos](https://steemit.com/tezos/@kyle.anderson/we-don-t-need-to-hardfork-a-questionable-story-about-tezos-ico-july-1st)
+
+[Tezos repository](https://github.com/tezos)
 
 
