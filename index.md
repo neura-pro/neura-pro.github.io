@@ -1,139 +1,61 @@
-## Information economies
+W jednym zdaniu: Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności.
 
-![](images/hand.jpg)
+Najlepiej zacząć od krótkiej prezentacji promocyjnej Tezosa:
+https://www.youtube.com/watch?v=7m7EU4JWI88
 
-Prediction markets are poised to become one of the most disruptive innovations in capital markets
-and data science since the beginning of the Information Revolution. First proposed in the early 90s,
-prediction markets have yet to attract mass attention in the realm of forecasting and decision-making
-despite their documented efficacy for information aggregation. This is largely due to over-regulation
-in many of the world’s leading financial sectors.
+A teraz po kolei najważniejsze kwestie tam poruszone.
 
-[Whenever](mission.md) you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Tezos is an all new smart contract platform built from scratch.
 
-With the invention of powerful, peer-to-peer computing technologies such as Ethereum and Bitcoin, the scientific exploration of market-based forecasting can proceed uninhibited and at a rate and scale previously unimaginable. Our team believes undoubtedly that prediction markets will disrupt some of the largest existing industries in the near term. Looking forward, we expect that the Gnosis prediction market platform will form the basis for machine information economies on a global scale.
+Czyli mamy kolejną, niezależną od innych blockchainów, platformę do procesowania smart-kontraktów. Pozostałe to: [Ethereum](https://www.ethereum.org/), [EOS](https://eos.io/), [Lisk](https://lisk.io/), [TauChain/Agoras](http://www.idni.org/), [Stratis](http://stratisplatform.com/), [Rootstock](http://www.rsk.co/) i [Emercoin](https://emercoin.com/).
 
-![](images/arch.jpg)
+Czym się Tezos chce wyróżnić? Są trzy główne sprawy:
+- Formal governance mechanism
+- Modular design
+- Formal verification of smart-contracts
 
-In order for a prediction market platform to become truly disruptive, it must be universal and
-draw from a global liquidity pool. The platform must be decentralized, permissionless, and trustless
-for such a liquidity pool to exist. With these requirements in mind, the Gnosis team has selected the
-Ethereum network as the core protocol upon which the platform will be built.
+#### Formal governance mechanism
 
-You can use the [editor on GitHub](https://github.com/neura-pro/neura-pro.github.io/edit/master/index.md) to *maintain* and preview the content for your website in Markdown files.
+> Unlike other smart contract platforms, Tezos has a formal governance mechanism on the blockchain itself.
 
-#### Problem Overview
+Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. governance issue) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu o dwa zakresy: 
+- decyzje strategiczne (np. istotna zmian protokołu, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
+- obsługa nietypowych sytaucji (np. słynne fiasko *The DAO* na ETH).
 
-Generally speaking, the Information Revolution has made it easier for individuals to quickly retrieve
-data about any topic. Despite the ease of access we enjoy today, this form of information aggregation
-still requires a great deal of coordination to be effective. More often than not, the data is severely
-lacking in context and objectivity and requires heavier lifting to produce actionable information
-for use in decision-making processes. The reason for this is straightforward: written information
-is inextricably linked to the writer’s individual biases and agenda, making it difficult to delineate
-useful information from opinions or intentional misinformation. In other words, it’s easy to find
-what people have said but hard to ascertain what they actually believe.
 
-Financial markets are particularly interesting in this regard in that the act of speculation elicits a
-highly effective form of information aggregation that requires no coordination (i.e. the “invisible
-hand”) and more closely mirrors individual beliefs. Principally, market speculators who believe they have superior information buy shares when they believe a company is undervalued and sell shares
-when they believe the company is overvalued. A monetary incentive exists to “update” a common
-data point (i.e. share price) when there is profit potential, and there is a disincentive to misreport in
-the form of financial loss. The resulting equilibrium share price reflects the prevailing market-wide
-sentiment about a company’s value at any given time. In summary, information aggregation occurs
-with *skin in the game* - a characteristic that:
+Moja subikektywna opinia:  w tej chwili jedynie blockchainy oparte na DPOS [Delegated Proof of Stake] (czyli BitShares, Steem, EOS, PeerPlays) mają tę kwestię w pewnym stopniu rozwiązaną. Można też przyjąć, że blockchainy, w których jest jakaś hierarchia ważności node'ów, (tj. mają warstwę tzw. *master nodes*, np. Dash), również w jakimś stopniu są w stanie skutecznie podejmować decyzje.
 
-1. effectively glues an individual’s action to their privately held beliefs and
-2. is absent from other methods for information aggregation such as polling.
+Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w zakresie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu.
 
-This is vital for understanding the principal function of prediction markets.
+Wracając do Tezosa - to zatem duży atut, że troska o *governance issue* leży u samych podstaw tej technologii.
 
-![tech](images/tech.jpg)
+> We enable token holders to make decisions about how the protocol should evolve. All decisions are made transparently on the blockchain. (...) It can even change the rules for decision-making.
 
-A prediction market, in essence, is a vehicle for aggregating information about the expected
-outcome of a future event. Unlike a traditional financial market, prediction markets frame themselves
-as questions about the future, typically with binary outcomes. For example: Which presidential
-candidate will win the 2016 election? Shares are divided among pre-defined options (e.g. Hillary
-Clinton, Donald Trump, Other) with corresponding share prices equaling $1. Each option’s share
-price reflects its probability of occurrence. So long as an individual believes they have superior
-information about the event in question, s/he has an incentive to purchase shares that reflect his/her
-beliefs about the outcome, thereby updating information captured by the prediction market. At the
-market’s conclusion, the winning option’s shares become redeemable for $1, while all other shares
-become worthless. Individual actors who purchased the winning shares receive profit equal to $1 -
-purchase price x number of shares.
+Czyli nawet będą reguły pozwalające zmienić reguły tworzenia reguł. To jest analogiczne do artykułu w konstytucji o trybie, w jakim mogą być dokonane zmiany w konstytucji.
 
-[Whenever](mission.md) you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Modular design
 
-#### Core Objectives
+> Because Tezos starts with a unique modular design, with cleanly separated layers, upgrading the protocol is as simple as changing out one layer for another.
 
-##### Build the World’s Most Efficient Forecasting Tool
+Bez zaglądania do kodu źródłowego trudno zweryfikować na ile jest to prawdziwe. Niemniej wiadomo, że architektura modułowa jest czymś pożądanym, bo umożliwia liczne modyfikacje działania systemu (czyli mamy wysoką elastyczność) i otwiera go na dalszy rozwój.
 
-Prediction markets can enable a more efficient and informed world. Prediction markets and oracles
-will bridge real world events to the blockchain, thereby strengthening its value as an authoritative
-source of truth about the world.
+> There is no need need for hard forks.
 
-##### Create the “Google” of Customized Information Searching
+To jest ciekawa rzecz. Na razie nie mam pojęcia, jakim cudem będą w stanie uniknąć hard forków. Być może chodzi o to, że hard forki będą tyle, że nigdy nie będzie niebezpieczeństwa że nastąpi split (jak np. miało to miejsce w przypadku ETH i ETC).
 
-Gnosis enables anyone to ask a question and fund the search for answers. This creates new economic
-opportunities for subject matter experts and more efficient avenues for crowdsourcing and aggregating
-information. The power of “search” is decentralized and inclusive.
+#### Formal verification of smart-contracts
 
-##### Become the Standard for Predictive Assets
+> Formal verification can ensure the security of the platform by proving the correctness of its code.
 
-Gnosis seeks to establish a global, open prediction market platform with a single liquidity pool.
-This limitless resource enables the simple creation of custom prediction market applications and
-embodies a flexible marketplace for blockchain oracle services.
+To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że smart-kontrakt nie zachowa się wbrew intencjom jego twórców. Czyli *The DAO* prawdopodobnie nie przeszłoby takiej weryfikacji i nie zostałoby wpuszczone na Tezosa.
 
-## Crowdsourced wisdom?
+> Tezos is written in OCaml, a statically-typed functional programming language.
 
-![](images/cube.jpg)
+No i tu mamy cenę za tę podwyższoną odporność na błędy. Języki programowania typu OCaml, są bardzo skomplikowane, więc są trudne w użyciu i nie tak powszechne jak inne (np. Java czy C++).
 
-On top of the Services layer (or in some cases, just Gnosis Core) is the Gnosis application layer.
-These applications are primarily front-ends that target a particular prediction market use case and or
-customer segment. Some of these applications may be built by Gnosis, while others will be built by
-third parties. Our vision for Gnosis is to have a wide variety of prediction market applications built
-atop the same platform and liquidity pool. These applications will likely charge additional fees or
-use alternative business models such as market making, information selling, or advertising. As we’ll
-see in the next section on tokens, many Gnosis applications may include token holding as a core
-component of their business model.
+I druga istotna sprawa: nie mamy tu 100% gwarancji wykrycia błędu w kodzie, jedynie zestaw narzędzi, które czynią to mało prawdopodobnym. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest   [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo czy to się uda.
 
-> The platform must be decentralized, permissionless, and trustless for such a liquidity pool to exist. With these requirements in mind, the Gnosis team has selected the Ethereum network as the core protocol upon which the platform will be built.
+#### Podsumowując
+Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli taka najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten używa masowo znanego java-scriptu.
 
-State channels are a prerequisite for betting and financial applications requiring thousands or
-more transactions per second. Without stablecoins, market participants are subject to the volatility
-of the cryptocurrency which the market is denominated in and the event outcome that they are
-predicting. Application templates, customization tools, and advanced oracle selection will allow us
-to execute on our vision of lowering the barrier to entry for new prediction market based applications
-by at least two orders of magnitude. While some applications and participants will interact with
-Gnosis on the Core level, we are confident that these services will provide a compelling reason for
-Services level use.
-
-![Image](images/art.jpg)
-
-## Information Revolution
-
-Generally speaking, the Information Revolution has made it easier for individuals to quickly retrieve
-data about any topic. Despite the ease of access we enjoy today, this form of information aggregation
-still requires a great deal of coordination to be effective. More often than not, the data is severely
-lacking in context and objectivity and requires heavier lifting to produce actionable information
-for use in decision-making processes. The reason for this is straightforward: written information
-is inextricably linked to the writer’s individual biases and agenda, making it difficult to delineate
-useful information from opinions or intentional misinformation. In other words, it’s easy to find
-what people have said but hard to ascertain what they actually believe.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Jekyll Themes
-
-The Core layer provides the foundational smart contracts for Gnosis use: event token creation and
-settlement, a market mechanism, oracle, and a management interface. This layer is and always will
-be free and open to use. Creating new markets is near zero marginal cost, and to remain competitive
-fees will have to approach zero. Instead of grasping at the maximum possible fees while remaining
-competitive, we feel that it is prudent to eliminate fees at the most basic contract level. It should be in every party’s best interest to use the existing open source and feeless contracts instead of deploying
-their own version.
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neura-pro/neura-pro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-## Support or Contact
-
-![](images/quest.jpg)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
