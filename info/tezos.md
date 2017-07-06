@@ -85,7 +85,7 @@ Moje wrażenia nie są aż tak negatywne, ale podzielam powyższy sentyment. Tez
 
 ![](concorde.jpg)
 
-Kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Concorde) - ambitny design i niezły wyczyn inżynieryjny ale w sumie niepraktyczny w użyciu.
+Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Concorde) - ambitny design i niezły wyczyn inżynieryjny ale w sumie niepraktyczny w użyciu.
 
 ### Dodatkowe informacje
 
