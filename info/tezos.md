@@ -31,7 +31,7 @@ Czyli nawet będą reguły pozwalające zmienić reguły tworzenia reguł. To je
 
 > Formal verification has been used in the aerospace industry, in medical devices, and other instances where the stakes are too high to fail. It can ensure the security of the platform by proving the correctness of its code.
 
-To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że smart-kontrakt nie zachowa się wbrew intencjom jego twórców. Czyli *The DAO* prawdopodobnie nie przeszłoby takiej weryfikacji i nie zostałoby wypuszczone na Tezosie.
+To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że smart-kontrakt nie zachowa się wbrew intencjom jego twórców. Czyli np. *The DAO* prawdopodobnie nie przeszłoby takiej weryfikacji, więc nie doszłoby do katastrofy, jaka miała miejsce na ETH.
 
 > To mitigate that risk, the development team designed our smart contract language with correctness and formal verification in mind.
 
