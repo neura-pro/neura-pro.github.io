@@ -83,7 +83,7 @@ Jedna z opinii [wyrażona na redicie](https://np.reddit.com/r/ethtrader/comments
 
 Moje wrażenia nie są aż tak negatywne, ale podzielam powyższy sentyment. Tezos trochę wygląda jak gigant na glinianych nogach: bardzo ambitne plany ale mocno nieprecyzyjne i bez umocowania w praktyce. Kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Concorde) - ambitny design i niezły wyczyn inżynieryjny ale w sumie niepraktyczny w użyciu. 
 
-![](British_Airways_Concorde_G-BOAC_03.jpg)
+![](concorde.jpg)
 
 ### Dodatkowe informacje
 
