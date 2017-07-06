@@ -13,8 +13,8 @@ Czym się Tezos chce wyróżnić? Mamy trzy główne aspekty:
 
 > Unlike other smart contract platforms, Tezos has a formal governance mechanism on the blockchain itself.
 
-Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. *governance issue*) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu o dwojakiego typu sytuacje:
-- decyzje strategiczne (tj. istotna zmiana w protokole, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
+Rzeczywiście, kwestia sprawności podejmowania decyzji (tzw. *governance issue*) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu o dwojakiego typu sytuacje:
+- decyzje strategiczne (tj. istotna zmiana w protokole, np. znany spór wielkość bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
 - obsługa nietypowych wydarzeń (np. słynne fiasko *The DAO* na ETH).
 
 W tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake), mają powyższą kwestię w miarę zaadresowaną. Można też przyjąć, że blockchainy, w których istnieją dwie warstwy *node*'ów, (np. Dash ze swoimi *master nodes*), również w jakimś stopniu są zdolne do sprawnego podejmowania decyzji. Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
@@ -29,11 +29,11 @@ Czyli nawet będą reguły pozwalające zmienić reguły tworzenia reguł. To je
 
 > Formal verification has been used in the aerospace industry, in medical devices, and other instances where the stakes are too high to fail. It can ensure the security of the platform by proving the correctness of its code.
 
-To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że smart-kontrakt nie zachowa się wbrew intencjom jego twórców. Czyli np. *The DAO* prawdopodobnie nie przeszłoby takiej weryfikacji, więc nie doszłoby do katastrofy, jaka miała miejsce na ETH.
+To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że smart-kontrakt nie zachowa się wbrew intencjom jego twórców. Czyli np. *The DAO* prawdopodobnie nie przeszłoby takiej weryfikacji, więc na Tezosie nie doszłoby do katastrofy, jaka miała miejsce na ETH.
 
 > To mitigate that risk, the development team designed our smart contract language with correctness and formal verification in mind.
 
-No i tu mamy cenę jaką płacimy za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), który jest dość restrykcyjny i nieelastyczny, co powoduje, że pojawia się dodatkowa bariera dla developerów. 
+No i tu widzimy cenę, jaką płacimy za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), który jest dość restrykcyjny i nieelastyczny, co powoduje, że pojawia się dodatkowa bariera dla developerów. 
 
 > Tezos is written in OCaml, a statically-typed functional programming language.
 
@@ -57,13 +57,13 @@ Brzmi to dość intrygująco, ale brak jest wyjaśnień w jaki sposób zostało 
 
 ### Kim są ludzie którzy za tym stoją?
 
-Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Moim zdaniem wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman jest dość niedoświadczony w zakresie technologii blockchainowych:
+Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespół nie wygląda imponująco](https://www.tezos.com/team). Moim zdaniem wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman jest dość niedoświadczony w zakresie technologii blockchainowych:
 
 > Arthur Breitman had worked at the high frequency trading desk at Goldman Sachs and was an options market maker at Morgan Stanley, while Kathleen Breitman is a former management associate at Bridgewater Associates, the world's largest hedge fund.
 
-Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
+[Obszerny wywiad Breitmana dla Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
 
-[Whitepaper]([https://www.tezos.com/static/papers/white_paper.pdf) jest raczej pobieżny, ledwo 17 stron. W porównaniu z whitepaperem Ethereum lub EOSa wygląda dość niepoważnie.
+[Whitepaper]([https://www.tezos.com/static/papers/white_paper.pdf) jest raczej ogólnikowy i lakoniczny, ledwo 17 stron. W porównaniu z whitepaperem Ethereum lub EOSa wygląda dość niepoważnie.
 
 ### Parametry blockchaina
 
