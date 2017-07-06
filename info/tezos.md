@@ -67,7 +67,7 @@ Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?
 
 ### Parametry blockchaina
 
-Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli będzie to wzorowane na koncepcji twórcy EOSa Dana Larimera.
+Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli twórcy Tezosa idą śladami koncepcji Dana Larimera. To jest korzystne, bo to rozwiązanie sprawdziło się całkiem nieźle w praktyce.
 
 Nie znalazłem informacji o docelowej inflacji ani informacji w zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - całkiem dziwne, bo to są dość istotne sprawy.
 
