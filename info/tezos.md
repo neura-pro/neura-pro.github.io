@@ -35,7 +35,7 @@ To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że 
 
 > To mitigate that risk, the development team designed our smart contract language with correctness and formal verification in mind.
 
-No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), który jest dość restrykcyjny (*statically typed and purely functional*), co powoduje, że pojawia się dodatkowa bariera dla developerów. 
+No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), który jest dość restrykcyjny i nieelastyczny, co powoduje, że pojawia się dodatkowa bariera dla developerów. 
 
 > Tezos is written in OCaml, a statically-typed functional programming language.
 
