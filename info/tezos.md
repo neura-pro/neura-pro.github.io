@@ -35,7 +35,7 @@ To jest mega ważna sprawa. Bo to pozwala w dużym stopniu mieć pewność, że 
 
 > To mitigate that risk, the development team designed our smart contract language with correctness and formal verification in mind.
 
-No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), co powoduje, że pojawia się dodatkowa bariera dla developerów. 
+No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza swój własny język skryptowy (o nazwie *Michelson*), który jest dość restrykcyjny (*statically typed and purely functional*), co powoduje, że pojawia się dodatkowa bariera dla developerów. 
 
 > Tezos is written in OCaml, a statically-typed functional programming language.
 
@@ -80,6 +80,6 @@ Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym sto
 
 [Tezos - oficjalna strona webowa](https://www.tezos.com/)
 
-[Tezos Roadmap](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
+[Tezos Overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
 
 [Billionaire investor Draper to participate in blockchain token sale for first time](http://www.reuters.com/article/us-tezos-blockchain-draper-idUSKBN181250)
