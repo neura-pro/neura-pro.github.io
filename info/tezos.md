@@ -1,8 +1,6 @@
-#### W jednym zdaniu: Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności.
+### W jednym zdaniu: Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności.
 
-Najlepiej zacząć od krótkiej prezentacji promocyjnej Tezosa:
-
-https://www.youtube.com/watch?v=7m7EU4JWI88
+Najlepiej zacząć od [krótkiej prezentacji promocyjnej Tezosa](https://www.youtube.com/watch?v=7m7EU4JWI88).
 
 A teraz po kolei najważniejsze kwestie tam poruszone. Tezos to kolejna, niezależna od innych blockchainów i zbudowana od zera, platforma do obsługi smart-kontraktów. Pozostałe to: [Ethereum](https://www.ethereum.org/), [EOS](https://eos.io/), [Lisk](https://lisk.io/), [TauChain/Agoras](http://www.idni.org/), [Stratis](http://stratisplatform.com/), [Rootstock](http://www.rsk.co/) i [Emercoin](https://emercoin.com/).
 
