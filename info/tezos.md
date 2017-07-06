@@ -41,7 +41,7 @@ No i tu mamy cenę za tę podwyższoną odporność na błędy - Tezos wprowadza
 
 Ważne rozróżnienie: platforma Tezos jest napisana w języku [OCaml](https://en.wikipedia.org/wiki/OCaml), który jest bardzo solidny, ale trudny w użyciu i mało znany. Nie należy mylić tego z językiem skryptowym *Michelson*, który ma służyć do pisania smart-kontraktów na Tezosie.
 
-Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-kontraktu, daje jedynie zestaw narzędzi, które w sposób istotny zmniejszają możliwość powstania neibezpiecznego błędu. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo czy to się uda.
+Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-kontraktu, daje jedynie zestaw narzędzi, które w sposób istotny zmniejszają możliwość powstania takiego błędu. Projektem, który ma ambicję osiągnąć 100% takiej gwarancji, jest [TauChain/Agoras](http://www.idni.org/), ale póki co nie wiadomo czy to się uda.
 
 ### Modułowa architektura
 
