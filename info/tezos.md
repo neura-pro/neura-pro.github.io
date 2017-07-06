@@ -45,7 +45,7 @@ Istotna sprawa: Tezos nie daje 100% gwarancji wykrycia błędu w kodzie smart-ko
 
 > Because Tezos starts with a unique modular design, with cleanly separated layers, upgrading the protocol is as simple as changing out one layer for another.
 
-Bez zaglądania do kodu źródłowego trudno zweryfikować, ile jest w tym prawdy. Niemniej wiadomo, że architektura modułowa jest czymś pożądanym, bo umożliwia liczne modyfikacje sposobu działania systemu (tj. wysoka elastyczność) i otwiera go na dalszy rozwój.
+Bez zaglądania do kodu źródłowego trudno zweryfikować, ile jest w tym prawdy. Wiadomo że architektura modułowa jest czymś bardzo pożądanym, bo daje elastyczność w zakresie modyfikacji i rozbudowy systemu.
 
 > There is no need need for hard forks.
 
