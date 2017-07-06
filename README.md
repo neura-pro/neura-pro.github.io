@@ -10,17 +10,17 @@ A teraz po kolei najważniejsze kwestie tam poruszone.
 Czyli mamy kolejną, niezależną od innych blockchainów, platformę do procesowania smart-kontraktów. Pozostałe to: [Ethereum](https://www.ethereum.org/), [EOS](https://eos.io/), [Lisk](https://lisk.io/), [TauChain/Agoras](http://www.idni.org/), [Stratis](http://stratisplatform.com/), [Rootstock](http://www.rsk.co/) i [Emercoin](https://emercoin.com/).
 
 Czym się Tezos chce wyróżnić? Są trzy główne sprawy:
--- Formal governance mechanism
--- Modular design
--- Formal verification of smart-contracts
+- Formal governance mechanism
+- Modular design
+- Formal verification of smart-contracts
 
 #### Formal governance mechanism
 
 > Unlike other smart contract platforms, Tezos has a formal governance mechanism on the blockchain itself.
 
-Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. governance issue) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu zarówno o dwa zakresy: 
--- decyzje strategiczne (np. istotna zmian protokołu, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
--- obsługa nietypowych sytaucji (np. słynne fiasko *The DAO* na ETH).
+Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. governance issue) jest mocno zaniedbana w świecie blockchainowym, choć jest ona krytycznie ważna. Chodzi tu o dwa zakresy: 
+- decyzje strategiczne (np. istotna zmian protokołu, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
+- obsługa nietypowych sytaucji (np. słynne fiasko *The DAO* na ETH).
 
 
 Moja subikektywna opinia:  w tej chwili jedynie blockchainy oparte na DPOS [Delegated Proof of Stake] (czyli BitShares, Steem, EOS, PeerPlays) mają tę kwestię w pewnym stopniu rozwiązaną. Można też przyjąć, że blockchainy, w których jest jakaś hierarchia ważności node'ów, (tj. mają warstwę tzw. *master nodes*, np. Dash), również w jakimś stopniu są w stanie skutecznie podejmować decyzje.
