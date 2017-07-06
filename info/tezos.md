@@ -85,7 +85,7 @@ Moje wrażenia nie są aż tak negatywne, ale podzielam powyższy sentyment. Tez
 
 ![](concorde.jpg)
 
-Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Concorde) - ambitny design i niezły wyczyn inżynieryjny ale w sumie niepraktyczny w użyciu. I też Francuzi maczali w tym palce.
+Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Concorde) - ambitny design i niezły wyczyn inżynieryjny ale w sumie niepraktyczny w użyciu. Może Francuzi mają skłonność do tego rodzaju rzeczy.
 
 ### Dodatkowe informacje
 
