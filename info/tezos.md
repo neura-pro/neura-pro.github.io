@@ -53,6 +53,10 @@ Bez zaglądania do kodu źródłowego trudno zweryfikować, na ile jest to prawd
 
 To jest ciekawa rzecz. Na razie nie mam pojęcia, jakim cudem Tezos będzie w stanie unikąć hard forków. Być może chodzi o to, że hard forki będą, tyle że nigdy nie będzie niebezpieczeństwa splitu (jak np. miało to miejsce w przypadku ETH i ETC).
 
+> Tezos not only comes to consensus about state, like BTC or ETH. It also comes to consensus about how the protocol and the nodes should adapt and upgrade.
+
+Brzmi to dość intrygująco ale brak wyjaśnień w jaki sposób zostało to osiągnięte, i czy zoastało przetsetowane w praktyce.
+
 ### Kim są ludzie którzy za tym stoją?
 
 Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Moim zdaniem wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman jest dość niedoświadczony w zakresie technologii blockchainowych:
@@ -81,5 +85,7 @@ Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym sto
 [Tezos - oficjalna strona webowa](https://www.tezos.com/)
 
 [Tezos Overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
+
+[Tezos repository](https://github.com/tezos)
 
 [Billionaire investor Draper to participate in blockchain token sale for first time](http://www.reuters.com/article/us-tezos-blockchain-draper-idUSKBN181250)
