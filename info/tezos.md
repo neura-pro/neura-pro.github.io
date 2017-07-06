@@ -17,9 +17,7 @@ Rzeczywiście, sprawa sprawności podejmowania decyzji (tzw. *governance issue*)
 - decyzje strategiczne (tj. istotna zmiana w protokole, np. słynna kwestia wielkości bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
 - obsługa nietypowych wydarzeń (np. słynne fiasko *The DAO* na ETH).
 
-Moja subiektywna opinia:  w tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake, czyli BitShares, Steem, EOS, PeerPlays) mają powyższą kwestię rozwiązaną - na pewno nie idealnie, ale przynajmnej istnieją tam stosowne mechanizmy na poziomie blockchaina. Można też przyjąć, że blockchainy, w których jest jakaś hierarchia ważności *node*'ów, (tj. mają warstwę tzw. *master nodes*, np. Dash), również w jakimś stopniu są w stanie w miarę skutecznie działać w zakresie podejmowania decyzji.
-
-Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
+W tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake), mają powyższą kwestię w miarę zaadresowaną. Można też przyjąć, że blockchainy, w których istnieją dwie warstwy *node*'ów, (np. Dash ze swoimi *master nodes*), również w jakimś stopniu są zdolne do sprawnego podejmowania decyzji. Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
 
 Wracając do Tezosa - to zatem duży atut, że troska o *governance issue* leży u samych podstaw tej technologii.
 
