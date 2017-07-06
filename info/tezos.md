@@ -1,8 +1,8 @@
 ### Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności. 
 
-Tezos jest niezależny od innych blockchainów a jego kod źródłowy zbudowany jest od zera. Do tworzenia kontraktów wymagane jest użycie specjalnego języka skryptowego.
-
 Najlepiej zacząć od [krótkiej prezentacji promocyjnej Tezosa](https://www.youtube.com/watch?v=7m7EU4JWI88).
+
+Tezos jest niezależny od innych blockchainów a jego kod źródłowy zbudowany jest od zera. Do tworzenia kontraktów wymagane jest użycie specjalnego języka skryptowego.
 
 Czym się Tezos chce wyróżnić? Mamy trzy główne aspekty:
 - Sformalizowany system samorządności
