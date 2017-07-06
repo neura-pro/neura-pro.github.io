@@ -55,7 +55,7 @@ To jest ciekawa rzecz. Na razie nie mam pojęcia, jakim cudem Tezos będzie w st
 
 > Tezos not only comes to consensus about state, like BTC or ETH. It also comes to consensus about how the protocol and the nodes should adapt and upgrade.
 
-Brzmi to dość intrygująco ale brak wyjaśnień w jaki sposób zostało to osiągnięte, i czy zoastało przetsetowane w praktyce.
+Brzmi to dość intrygująco, ale brak jest wyjaśnień w jaki sposób zostało to osiągnięte, i czy zostało to przetestowane w praktyce.
 
 ### Kim są ludzie którzy za tym stoją?
 
