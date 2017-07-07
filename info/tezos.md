@@ -95,7 +95,7 @@ Wygląda na to, że w swoich planach Tezos idzie nawet dalej niż EOS. Jeśli te
 
 ### Planowane uruchomienie
 
-Nie podano żadnych konkretnych terminów. Z opisu fundraisera wynika, że tempo i rozmach dalszych działań w duże mierze zależą od kwoty uzyskanej podczas ICO (które jest uncupped).
+Nie podano żadnych konkretnych terminów. Z opisu fundraisera wynika, że tempo i rozmach dalszych działań w duże mierze zależą od kwoty uzyskanej podczas ICO - a jest ono bez górnego limitu.
 
 ### Podsumowując
 Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
