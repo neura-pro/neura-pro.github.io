@@ -84,7 +84,7 @@ Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego
 
 Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
 
-Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo, że mimo dobrych chęci ten zespół nie będzie w stanie osiągnąć zadeklarowanych celów. Wygląda to na przewagę hype'u nad mertium.
+Drugi duży minus to zaskakująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo, że mimo dobrych chęci ten zespół nie będzie w stanie osiągnąć zadeklarowanych celów. Wygląda to na przewagę hype'u nad meritum.
 
 Jedna z opinii [wyrażona na serwisie Reddit](https://np.reddit.com/r/ethtrader/comments/6am251/what_are_everyones_thoughts_on_tezos_coinss_ico/dhhemcg/):
 > The scope of their roadmap is ridiculous and belies that investors should not have confidence that the team will use the raised money well. The plans are massive and random and the team doesn't have the necessary expertise to handle the variety. Scope is way too big. This looks like empire building and it's frankly, an unfocused, shoddy plan.
@@ -97,7 +97,7 @@ Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Co
 
 ### Dodatkowe informacje
 
-[Tezos - oficial website](https://www.tezos.com/)
+[Tezos - official website](https://www.tezos.com/)
 
 [Tezos - fundraiser overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
 
@@ -106,7 +106,3 @@ Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Co
 [Billionaire investor Draper to participate in blockchain token sale for first time](http://www.reuters.com/article/us-tezos-blockchain-draper-idUSKBN181250)
 
 [A questionable story about Tezos](https://steemit.com/tezos/@kyle.anderson/we-don-t-need-to-hardfork-a-questionable-story-about-tezos-ico-july-1st)
-
-
-
-
