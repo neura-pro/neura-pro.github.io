@@ -67,7 +67,7 @@ Poza powyższą ogólną deklaracją brak dokładniejszych informacji biograficz
 
 Wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman nie ma namacalnego doświadczenia w zakresie technologii blockchainowych.
 
-Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
+Obszerny [wywiad Breitmana dla Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
 
 ### Whitepaper
 
