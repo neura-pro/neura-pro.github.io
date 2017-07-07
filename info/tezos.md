@@ -61,7 +61,7 @@ Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespó
 
 > Most of our developers have Ph.Ds in Computer Science and expertise in programming language theory.
 
-Poza tym ogólną deklaracją brak dokładniejszych informacji biograficznych. Są tylko imoina + nazwiska i zdjęcia i nic więcej.
+Poza powyższą ogólną deklaracją brak dokładniejszych informacji biograficznych. Są tylko imoina + nazwiska i zdjęcia i nic więcej.
 
 > Arthur Breitman had worked at the high frequency trading desk at Goldman Sachs and was an options market maker at Morgan Stanley, while Kathleen Breitman is a former management associate at Bridgewater Associates, the world's largest hedge fund.
 
