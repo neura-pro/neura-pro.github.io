@@ -71,7 +71,7 @@ Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?
 
 ### Whitepaper
 
-Z [whitepaperem]([https://www.tezos.com/static/papers/white_paper.pdf) jest dość dziwnie: jest on całkiem dobrze napisany, ale osoba zadeklarowana jako jego autor (L.M Goodman) nie nie należy do zespołu Tezosa. Dodatkowo whitepaper jest mocno nieświeży: widnieje na nim data September 2014. Więc w sumie wygląda to dość podejrzanie i niepoważnie.
+Z [whitepaperem]([https://www.tezos.com/static/papers/white_paper.pdf) jest dość dziwnie: jest on całkiem dobrze napisany, ale osoba zadeklarowana jako jego autor (L.M Goodman) nie należy do zespołu Tezosa. Dodatkowo whitepaper jest mocno nieświeży: widnieje na nim data September 2014. Więc w sumie wygląda to dość podejrzanie i niepoważnie.
 
 ### Parametry blockchaina
 
