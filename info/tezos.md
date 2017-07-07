@@ -1,4 +1,4 @@
-### Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności. 
+### Tezos to zdecentralizowana platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności. 
 
 Najlepiej zacząć od [krótkiej prezentacji promocyjnej Tezosa](https://www.youtube.com/watch?v=7m7EU4JWI88), dostępnej na YouTubie.
 
@@ -17,7 +17,7 @@ Rzeczywiście, kwestia sprawności podejmowania decyzji (tzw. *governance issue*
 - decyzje strategiczne (tj. istotna zmiana w protokole, np. znany spór wielkość bloku w BTC, albo zapowiadane przejście z POW do POS w przypadku ETH)
 - obsługa nietypowych wydarzeń (np. słynne fiasko *The DAO* na ETH).
 
-W tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake), mają powyższą kwestię w miarę zaadresowaną. Można też przyjąć, że blockchainy, w których istnieją dwie warstwy *node*'ów, (np. Dash ze swoimi *master nodes*), również w jakimś stopniu są zdolne do sprawnego podejmowania decyzji. Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
+W tej chwili jedynie blockchainy oparte na DPOS (Delegated Proof of Stake), mają powyższy problem w miarę zaadresowany. Można też przyjąć, że blockchainy, w których istnieją dwie warstwy *node*'ów, (np. Dash ze swoimi *master nodes*), również w jakimś stopniu są zdolne do sprawnego podejmowania decyzji. Natomiast wszystkie pozostałe blockchainy są niebezpiecznie bezbronne w aspekcie *governance issue* i zapewne prędzej czy później poniosą negatywne konsekwencje tego faktu. Albo będą tkwiły w decyzyjnej stagnacji.
 
 Wracając do Tezosa - to zatem duży atut, że troska o *governance issue* leży u samych podstaw tej technologii.
 
