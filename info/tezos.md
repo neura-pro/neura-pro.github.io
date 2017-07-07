@@ -23,7 +23,7 @@ Wracając do Tezosa - to zatem duży atut, że troska o *governance issue* leży
 
 > We enable token holders to make decisions about how the protocol should evolve. All decisions are made transparently on the blockchain. (...) It can even change the rules for decision-making.
 
-Czyli nawet będą reguły pozwalające zmienić reguły tworzenia reguł. To jest analogiczne do artykułu w konstytucji o trybie, w jakim mogą być dokonane zmiany w konstytucji. Duży plus.
+Czyli nawet będą reguły pozwalające zmienić reguły tworzenia reguł. To jest analogiczne do artykułu w konstytucji o trybie, w jakim mogą być dokonywane zmiany w konstytucji. Duży plus.
 
 ### Sformalizowany system weryfikacji smart-kontraktów
 
@@ -57,11 +57,11 @@ Brzmi to dość intrygująco, ale brak jest wyjaśnień w jaki sposób zostało 
 
 ### Kim są ludzie którzy za tym stoją?
 
-Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Dodatkowo nie podano, jakie są role poszczególnych osób.
+Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespół nie wygląda imponująco](https://www.tezos.com/team). Dodatkowo nie podano, jakie są role poszczególnych osób.
 
 > Most of our developers have Ph.Ds in Computer Science and expertise in programming language theory.
 
-Poza powyższą ogólną deklaracją brak dokładniejszych informacji biograficznych. Są tylko imoina + nazwiska i zdjęcia i nic więcej.
+Poza powyższą ogólną deklaracją brak dokładniejszych informacji biograficznych. Są tylko imiona + nazwiska i zdjęcia i nic więcej.
 
 > Arthur Breitman had worked at the high frequency trading desk at Goldman Sachs and was an options market maker at Morgan Stanley, while Kathleen Breitman is a former management associate at Bridgewater Associates, the world's largest hedge fund.
 
@@ -82,7 +82,7 @@ Nie znalazłem informacji o docelowej inflacji. W zakresie opłat transakcyjnych
 ### Podsumowując
 Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
 
-Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
+Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można założyć, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
 
 Drugi duży minus to zaskakująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo, że mimo dobrych chęci ten zespół nie będzie w stanie osiągnąć zadeklarowanych celów. Wygląda to na przewagę hype'u nad meritum.
 
