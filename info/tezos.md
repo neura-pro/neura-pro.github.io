@@ -98,13 +98,13 @@ Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Co
 ### Dodatkowe informacje
 
 [Tezos - oficjalna strona webowa](https://www.tezos.com/)
-
 [Tezos - fundraiser overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
+[Tezos - main repository](https://github.com/tezos)
 
 [Billionaire investor Draper to participate in blockchain token sale for first time](http://www.reuters.com/article/us-tezos-blockchain-draper-idUSKBN181250)
 
 [A questionable story about Tezos](https://steemit.com/tezos/@kyle.anderson/we-don-t-need-to-hardfork-a-questionable-story-about-tezos-ico-july-1st)
 
-[Tezos - main repository](https://github.com/tezos)
+
 
 
