@@ -1,4 +1,4 @@
-### Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności. 
+﻿### Tezos to platforma smart-kontraktowa z formalnie weryfikowalnym językiem programowania i ze zintegrowanym systemem samorządności. 
 
 Najlepiej zacząć od [krótkiej prezentacji promocyjnej Tezosa](https://www.youtube.com/watch?v=7m7EU4JWI88), dostępnej na YouTubie.
 
@@ -57,19 +57,27 @@ Brzmi to dość intrygująco, ale brak jest wyjaśnień w jaki sposób zostało 
 
 ### Kim są ludzie którzy za tym stoją?
 
-Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespół nie wygląda imponująco](https://www.tezos.com/team). Moim zdaniem wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman jest dość niedoświadczony w zakresie technologii blockchainowych:
+Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Dodatkowo nie podano jakie są role poszczególnych osób.
+
+> Most of our developers have Ph.Ds in Computer Science and expertise in programming language theory.
+
+Poza tym ogólną deklaracją brak dokładniejszych informacji biograficznych. Są tylko imoina + nazwiska i zdjęcia i nic więcej.
 
 > Arthur Breitman had worked at the high frequency trading desk at Goldman Sachs and was an options market maker at Morgan Stanley, while Kathleen Breitman is a former management associate at Bridgewater Associates, the world's largest hedge fund.
 
-Obszerny [wywiad Breitmana dla Epicenter](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
+Wyraźnie brakuje tu dużego kalibru developera, a CEO Arthur Breitman nie ma namacalnego doświadczenia w zakresie technologii blockchainowych.
 
-[Whitepaper]([https://www.tezos.com/static/papers/white_paper.pdf) jest raczej ogólnikowy i lakoniczny, ledwo 17 stron. W porównaniu z whitepaperem Ethereum lub EOSa wygląda dość niepoważnie.
+Obszerny wywiad Breitmana dla [Epicenter Bitcoin](https://www.youtube.com/watch?v=3mgaDpuMSc0) też nie zrobił na mnie wrażenia. Breitman mówi słuszne rzeczy, ale brakuje w tym większego insight'u.
+
+### Whitepaper
+
+Z [whitepaperem]([https://www.tezos.com/static/papers/white_paper.pdf) jest dość dziwnie: jest on całkiem dobrze napisany, ale osoba zadeklarowana jako jego autor (L.M Goodman) nie nie należy do zespołu Tezosa. Dodatkowo whitepaper jest mocno nieświeży: widnieje na nim data September 2014. Więc w sumie wygląda to dość podejrzanie i niepoważnie.
 
 ### Parametry blockchaina
 
 Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli twórcy Tezosa idą śladami koncepcji Dana Larimera. To jest korzystne, bo to rozwiązanie sprawdziło się całkiem nieźle w praktyce.
 
-Nie znalazłem informacji o docelowej inflacji ani informacji w zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - całkiem dziwne, bo to są dość istotne sprawy.
+Nie znalazłem informacji o docelowej inflacji. W zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - wygląda na to, że Tezos zastosuje model podobny do ETH (chociaż nigdzie nie jest powiedziane, w jaki sposób opłaty transakcyjne zostaną odseparowane od wahań ceny tokena Tezosa).
 
 ### Podsumowując
 Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
