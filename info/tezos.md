@@ -93,6 +93,10 @@ Widać w tym podejście podobne do tego, które reprezentuje EOS, czyli docelowo
 
 Wygląda na to, że w swoich planach Tezos idzie nawet dalej niż EOS. Jeśli te wyżej wymienione funkcjonalności będą docelowo wbudowane w system to nasuwa się pytanie, czy nie będzie to ewoluować w stronę monolitu, w przeciwieństwie do takiej przestrzeni jak ETH, gdzie jest nieograniczona konkurencja między aplikacjami.
 
+### Planowane uruchomienie
+
+Nie podano żadnych konkretnych terminów. Z opisu fundraisera wynika, że tempo i rozmach dalszych działań w duże mierze zależy od kwoty uzyskanej podczas ICO.  
+
 ### Podsumowując
 Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
 
