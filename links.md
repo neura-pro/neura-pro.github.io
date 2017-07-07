@@ -5,3 +5,6 @@
 [The Fate Of Ethereum: What May Be To Come](https://steemit.com/ethereum/@rok-sivante/the-fate-of-ethereum-what-may-be-to-come)
 
 [I was wrong about Ethereum](https://medium.com/startup-grind/i-was-wrong-about-ethereum-804c9a906d36)
+
+---
+[How To Move Default Ethereum BlockChain Folder To Another Drive Location](https://www.youtube.com/watch?v=1fHeUUbWthI)
