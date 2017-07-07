@@ -79,6 +79,18 @@ Mechanizm konsensusu to DPOS (Delegated Proof of Stake), czyli twórcy Tezosa id
 
 Nie znalazłem informacji o docelowej inflacji. W zakresie opłat transakcyjnych (w tym opłat za procesowanie smart-kontraktów) - wygląda na to, że Tezos zastosuje model podobny do ETH (chociaż nigdzie nie jest powiedziane, w jaki sposób opłaty transakcyjne zostaną odseparowane od wahań ceny tokena Tezosa).
 
+### Roadmap
+
+> The development goals of Tezos follow five axes: security, scaling, privacy, usability, and features.
+
+Roadmap jest na poziomie postulatów - całkiem słusznych, ale bez konkretów.
+
+> Unproven systems ought to innovate at the leaves, while tried-and-true features ought to have a way to make the network more valuable by integrating at the protocol level. Thus, if an application is particularly valuable to the network, we believe it should be folded into the protocol.
+
+>  Features likely to be voted into the protocol level by the network include: prediction markets, DNS systems, on-chain node identity, debt networks (à la Stellar), decentralized exchanges, file storage, and cloud computing.
+
+Widać w tym podejście podobne do tego które reprezentuje EOS, czyli docelowo ma to być blockchainowy system operacyjny, w którym najbardziej podstawowe funkcjonalności są wbudowane w bazowy protokół. Tyle że ma to być osiągane stopniowo: na początku będzie "goły" system w rodzaju ETH i stopniowo będzie ewoluować w "bogaty" system w rodzaju EOSa.
+
 ### Podsumowując
 Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego stopnia bezpieczeństwa. Nie idzie więc w masowość i efektywność procesowania, w zamian stawia na jakość. Czyli pozycjonuje się jako najwyższa półka wśród platform smart-kontraktowych. Na drugim biegunie jest Lisk - ten nie przejmuje się zbytnio bezpieczeństwem i stawia na masowo znany z zastosowań webowych JavaScript.
 
