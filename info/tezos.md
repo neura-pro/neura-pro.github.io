@@ -57,7 +57,7 @@ Brzmi to dość intrygująco, ale brak jest wyjaśnień w jaki sposób zostało 
 
 ### Kim są ludzie którzy za tym stoją?
 
-Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Dodatkowo nie podano jakie są role poszczególnych osób.
+Zlokalizowani we Francji, co jest dość nietypowe. Na pierwszy rzut oka [zespól nie wygląda imponująco](https://www.tezos.com/team). Dodatkowo nie podano, jakie są role poszczególnych osób.
 
 > Most of our developers have Ph.Ds in Computer Science and expertise in programming language theory.
 
@@ -84,7 +84,7 @@ Tezos idzie w stronę obsługi smart-kontraktów, które wymagają największego
 
 Tezos ma jeden duży minus: tworzenie nietrywialnych smart-kontraktów jest samo w sobie piekielnie trudne, a Tezos dodatkowo istotnie zwiększa tę trudność. No ale z drugiej strony można spekulować, że ludzie, którzy są w stanie tworzyć smart-kontrakty, prawdopodobnie są też w stanie posługiwać się trudniejszymi językami programowania.
 
-Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo przewagi hype'u nad mertium.
+Drugi duży minus to zaskaująco niskie doświadczenie ludzi, którzy za tym stoją. Więc jest niebezpieczeństwo, że mimo dobrych chęci ten zespół nie będzie w stanie osiągnąć zadeklarowanych celów. Wygląda to na przewagę hype'u nad mertium.
 
 Jedna z opinii [wyrażona na serwisie Reddit](https://np.reddit.com/r/ethtrader/comments/6am251/what_are_everyones_thoughts_on_tezos_coinss_ico/dhhemcg/):
 > The scope of their roadmap is ridiculous and belies that investors should not have confidence that the team will use the raised money well. The plans are massive and random and the team doesn't have the necessary expertise to handle the variety. Scope is way too big. This looks like empire building and it's frankly, an unfocused, shoddy plan.
