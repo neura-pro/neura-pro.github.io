@@ -97,7 +97,7 @@ Tezos kojarzy mi się to z [samolotem Concorde](https://en.wikipedia.org/wiki/Co
 
 ### Dodatkowe informacje
 
-[Tezos - oficjalna strona webowa](https://www.tezos.com/)
+[Tezos - oficial website](https://www.tezos.com/)
 
 [Tezos - fundraiser overview](https://www.tezos.com/static/papers/Tezos_Overview.pdf)
 
