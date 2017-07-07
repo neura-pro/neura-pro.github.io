@@ -87,7 +87,7 @@ Roadmap jest na poziomie postulatów - całkiem słusznych, ale bez konkretów.
 
 > Unproven systems ought to innovate at the leaves, while tried-and-true features ought to have a way to make the network more valuable by integrating at the protocol level. Thus, if an application is particularly valuable to the network, we believe it should be folded into the protocol.
 
-Widać w tym podejście podobne do tego które reprezentuje EOS, czyli docelowo ma to być blockchainowy system operacyjny, w którym najbardziej podstawowe funkcjonalności są wbudowane w bazowy protokół. Tyle że ma to być osiągane stopniowo: na początku będzie "goły" system w rodzaju ETH i stopniowo będzie ewoluować w "bogaty" system w rodzaju EOSa.
+Widać w tym podejście podobne do tego, które reprezentuje EOS, czyli docelowo ma to być blockchainowy system operacyjny, w którym najbardziej podstawowe funkcjonalności są wbudowane w bazowy protokół. Tyle że ma to być osiągane stopniowo: na początku będzie "goły" system w rodzaju ETH i stopniowo będzie ewoluować w "bogaty" system w rodzaju EOSa.
 
 > Features likely to be voted into the protocol level by the network include: prediction markets, DNS systems, on-chain node identity, debt networks (à la Stellar), decentralized exchanges, file storage, and cloud computing.
 
